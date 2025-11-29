@@ -21,7 +21,7 @@ Key metrics are measured in **Kilobits per second (KBPS)** per individual.
 - **📱 Responsive Design**: Built with a mobile-first approach, ensuring a seamless experience on all devices.
 
 
-## � Data Source
+##  Data Source
 
 The dashboard uses public data from the **ITU ICT Indicators Database**.
 - **Dataset**: `ITU_DH_INT_BAND_PER_CAP.csv`
